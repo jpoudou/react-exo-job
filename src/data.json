@@ -1,0 +1,34 @@
+[
+  {
+    "classJob": "red",
+    "title": "",
+    "contractType": "CDI",
+    "country": "USA",
+    "city": "NY",
+    "id": 1
+  },
+  {
+    "classJob": "green",
+    "title": "Titre2",
+    "contractType": "CDI",
+    "country": "USA",
+    "city": "NY",
+    "id": 2
+  },
+  {
+    "classJob": "red",
+    "title": "Titre3",
+    "contractType": "CDI",
+    "country": "USA",
+    "city": "NY",
+    "id": 3
+  },
+  {
+    "classJob": "green",
+    "title": "Titre4",
+    "contractType": "CDI",
+    "country": "USA",
+    "city": "NY",
+    "id": 4
+  }
+]
