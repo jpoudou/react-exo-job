@@ -1,6 +1,6 @@
 const Job = ({ title, contractType, country, city, classJob }) => {
   // const Job = (props) => {
-  const bool = true;
+  //   const bool = true;
   //   const { title, contractType, country, city, classJob } = props;
 
   return (
